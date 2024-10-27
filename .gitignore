@@ -15,10 +15,6 @@
 # .pem files
 *.pem
 
-# Consul data directories
-**/network_config/*
-**/application_config/*
-
 # .hcl files
 *.hcl
 
